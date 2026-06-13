@@ -1,0 +1,25 @@
+{
+  "name": "Simulador Financiero PRO",
+  "short_name": "Sim. EFI PRO",
+  "description": "Simulador de crédito EFI BBVA para Asesor Digital Abraham Fernando Ulloa Ortega",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#004481",
+  "theme_color": "#004481",
+  "orientation": "portrait-primary",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
